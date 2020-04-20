@@ -1,0 +1,12 @@
+C:\Users\Massi\Desktop\work\C#\TPGarage\GarageLib.Core\bin\Debug\GarageLib.Core.dll
+C:\Users\Massi\Desktop\work\C#\TPGarage\GarageLib.Core\bin\Debug\GarageLib.Core.pdb
+C:\Users\Massi\Desktop\work\C#\TPGarage\GarageLib.Core\obj\Debug\GarageLib.Core.csprojAssemblyReference.cache
+C:\Users\Massi\Desktop\work\C#\TPGarage\GarageLib.Core\obj\Debug\GarageLib.Core.csproj.CoreCompileInputs.cache
+C:\Users\Massi\Desktop\work\C#\TPGarage\GarageLib.Core\obj\Debug\GarageLib.Core.dll
+C:\Users\Massi\Desktop\work\C#\TPGarage\GarageLib.Core\obj\Debug\GarageLib.Core.pdb
+C:\Users\Massi\Desktop\work\C#\TPGarage2\GarageLib.Core\bin\Debug\GarageLib.Core.dll
+C:\Users\Massi\Desktop\work\C#\TPGarage2\GarageLib.Core\bin\Debug\GarageLib.Core.pdb
+C:\Users\Massi\Desktop\work\C#\TPGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.csprojAssemblyReference.cache
+C:\Users\Massi\Desktop\work\C#\TPGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.csproj.CoreCompileInputs.cache
+C:\Users\Massi\Desktop\work\C#\TPGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.dll
+C:\Users\Massi\Desktop\work\C#\TPGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.pdb
